@@ -1,0 +1,8 @@
+{
+  "name":"tela-live-discord",
+  "version":"2.0.0",
+  "private":true,
+  "type":"module",
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"bcryptjs":"^2.4.3","express":"^5.1.0","jsonwebtoken":"^9.0.2","ws":"^8.18.3"}
+}
